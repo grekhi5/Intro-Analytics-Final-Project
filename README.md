@@ -2,6 +2,13 @@
 
 ## Project Overview
 
+## Team Information
+
+* **Team Number:** 5
+* **Project Manager:** Yashaswini Reddy
+* **Team Members:** Yashaswini Reddy, Gurveen Rekhi, Aryan Jain, Tae Yoon Kim, Xiaoxuan Zhu
+* **File Name:** `A05-Housing-Affordability.ipynb`
+
 **Problem Statement:**
 Housing affordability is a critical economic and social challenge in San Diego and San Francisco, where median home prices significantly outpace median household incomes. This project aims to **quantify this disparity** by creating a **Housing Affordability Gap** metric at the ZIP code level.
 
@@ -49,9 +56,4 @@ Future work could expand the analysis in the following areas:
 * **Comparative Analysis:** Explore other cities in California or other states to compare their metrics against San Diego and San Francisco.
 * **Historical Trends:** Compare the current data to historical data to analyze how the Californian housing market has progressed.
 
-## Team Information
 
-* **Team Number:** 5
-* **Project Manager:** Yashaswini Reddy
-* **Team Members:** Yashaswini Reddy, Gurveen Rekhi, Aryan Jain, Tae Yoon Kim, Xiaoxuan Zhu
-* **File Name:** `A05-Housing-Affordability.ipynb`
